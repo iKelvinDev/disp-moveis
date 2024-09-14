@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "listadetarefas",
+    "slug": "snack-cdb46c92-b0bd-482b-a61c-2f395b771169",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ikelvindev.snackcdb46c92b0bd482ba61c2f395b771169"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "78978ec5-43d0-493d-9ff6-c853ae10858c"
+      }
+    }
+  }
+}
